@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋通義
-#+DATE: 2015-09-23 09:39:25
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:12:58.862744
+#+PROPERTY: ID KR1e0020
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1e0020_WYG_000-1a>¶
 欽定四庫全書　　　　經部五¶
 　春秋通義　　　　　　春秋類¶
@@ -28,4 +30,3 @@
 　　　　年十月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　　　　總　校　官(臣/)陸　費　墀¶
-
